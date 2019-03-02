@@ -1,0 +1,46 @@
+world_name:room1
+update_rate:1000.0
+add_floor:true
+resolution:0.05
+
+-line_box
+name:wall1
+start:0.0 0.0
+end:0.0 2.79
+thickness:0.05
+height:0.0 1.0
+
+-line_box
+name:wall2
+start:0.0 2.79
+end:2.14 2.79
+thickness:0.05
+height:0.0 1.0
+
+-line_box
+name:wall3
+start:2.14 2.79
+end:2.14 1.74
+thickness:0.05
+height:0.0 1.0
+
+-line_box
+name:wall4
+start:2.14 1.74
+end:1.3 1.74
+thickness:0.05
+height:0.0 1.0
+
+-line_box
+name:wall5
+start:1.3 1.74
+end:1.3 0.0
+thickness:0.05
+height:0.0 1.0
+
+-line_box
+name:wall6
+start:1.3 0.0
+end:0.0 0.0
+thickness:0.05
+height:0.0 1.0
